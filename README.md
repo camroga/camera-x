@@ -1,4 +1,4 @@
-# CameraX
+# Camera X
 
 Camilo Andrés Rodríguez Garzón
 
